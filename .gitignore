@@ -1,0 +1,17 @@
+/src/Acesso.Account/.vs
+/test
+/**/*.user
+/src/Acesso.Account/Acesso.Account.Application/bin
+/src/Acesso.Account/Acesso.Account.Application/obj
+/src/Acesso.Account/Acesso.Account.Domain/bin
+/src/Acesso.Account/Acesso.Account.Domain/obj
+/src/Acesso.Account/Acesso.Account.IoC/bin
+/src/Acesso.Account/Acesso.Account.IoC/obj
+/src/Acesso.Account/Acesso.Account.Log/bin
+/src/Acesso.Account/Acesso.Account.Log/obj
+/src/Acesso.Account/Acesso.Account.MongoDB/bin
+/src/Acesso.Account/Acesso.Account.MongoDB/obj
+/src/Acesso.Account/Acesso.Account.RabbitMQ/bin
+/src/Acesso.Account/Acesso.Account.RabbitMQ/obj
+/src/Acesso.Account/Acesso.Account.Service/bin
+/src/Acesso.Account/Acesso.Account.Service/obj
